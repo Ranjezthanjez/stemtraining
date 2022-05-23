@@ -6,3 +6,13 @@ Learning markdown Installing python
 ## Day three
 Building a complex calculator using python.
 ## Day four
+control flow
+if statements
+else,elf
+while loops
+for loops
+break,continue
+strings as lists
+indeces
+nerted lists(matrices)
+
