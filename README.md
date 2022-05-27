@@ -21,3 +21,11 @@ nerted lists(matrices)
 
 
 ## Day seven
+lists=[],tuples(),sets{} 
+append method
+
+
+## Day eight
+Dictanaries in python
+my dict
+Eg "books"="dynamics"
