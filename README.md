@@ -17,3 +17,7 @@ indeces
 nerted lists(matrices)
 
 ## Day five
+
+
+
+## Day seven
