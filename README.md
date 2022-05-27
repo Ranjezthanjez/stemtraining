@@ -17,15 +17,22 @@ indeces
 nerted lists(matrices)
 
 ## Day five
+strings function
+to replace characters in astring
+multiple line strings
+strings remove
+space between words
+counting letters in strings
 
 
-
-## Day seven
-lists=[],tuples(),sets{} 
+## Day six
+lists=[],
+tuples(),
+sets{} 
 append method
 
 
-## Day eight
+## Day seven
 Dictanaries in python
 my dict
 Eg "books"="dynamics"
