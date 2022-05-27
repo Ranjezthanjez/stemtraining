@@ -37,3 +37,10 @@ Dictanaries in python
 my dict
 Eg "books"="dynamics"
 
+## Day eight
+object oriented programming
+defining a class and its attributes
+creating instances(objects)of a class
+class methods(functions belonging to a class)
+inheritance and polymorphism
+method overriding
