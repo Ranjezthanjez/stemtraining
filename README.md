@@ -58,3 +58,7 @@ method overriding
 
 ## Day Eleven
 getting text input
+## Day Twelve
+exceptions
+else
+finally
