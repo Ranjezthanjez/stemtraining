@@ -73,3 +73,8 @@ IOT
 microprocers
 hardwaredevelopment
 low_level programming
+## Day sixteen
+push button
+LEDS
+Resistors
+Potentiometer
