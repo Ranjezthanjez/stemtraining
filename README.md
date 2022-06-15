@@ -78,3 +78,11 @@ push button
 LEDS
 Resistors
 Potentiometer
+## Day seventeen
+ ## Day eighteen
+ bread
+ board
+ microcontroler
+ ## Day Nineteen
+ controling brightness of LED
+ ## Day Twenty
